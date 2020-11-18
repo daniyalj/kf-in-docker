@@ -1,5 +1,5 @@
 # Kf in a Docker image
-=========
+------------
 
 Dockerfile for running [Kf](https://cloud.google.com/migrate/kf/docs) binary in a Docker image
 
