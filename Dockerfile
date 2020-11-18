@@ -12,4 +12,6 @@ RUN gsutil cp gs://kf-releases/v2.0.0/kf-linux /tmp/kf
 RUN chmod a+x /tmp/kf
 RUN mv /tmp/kf /usr/local/bin/kf
 
+# Handy for keeping container alive
+
 #CMD tail -f /dev/null
