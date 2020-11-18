@@ -8,6 +8,17 @@ Requirements
 
 - Docker
 
+Tools included
+------------
+
+- Git
+- Kubectl
+- Gcloud
+- Kf
+- Curl
+- Vim
+
+
 Example build
 ----------------
 
